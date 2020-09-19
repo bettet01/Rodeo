@@ -37,227 +37,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GroovinTheme/resources/Groovin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GroovinTheme/resources/GroovinTheme.theme.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnProject/src/CodeAssistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LearnProject/src/Navigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/backend-example/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/components/CustomerTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PracticeProjects/DockerPactice/frontend-example/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openIdConnectAzure/src/main/java/com/cargill/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openIdConnectAzure/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addHooks.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contributing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/about/about.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/about/about.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/about/about.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/about/about.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/custom/custom.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/custom/filter-header/filter-header.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/custom/filter-header/filter-header.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/custom/filter-header/filter-header.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/custom/filter-header/filter-header.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/footer/footer.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/footer/footer.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/footer/footer.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/footer/footer.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/generic-modal/generic-modal.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/generic-modal/generic-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/generic-modal/generic-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/generic-modal/generic-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/helpers/utility.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/helpers/utility.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/mat-modules/mat-modules.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/navbar/navbar.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/navbar/navbar.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/navbar/navbar.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/core/navbar/navbar.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/add-shipto/add-shipto.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/add-shipto/add-shipto.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/add-shipto/add-shipto.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/add-shipto/add-shipto.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formula-edit/customer-formula-edit.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formula-edit/customer-formula-edit.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formula-edit/customer-formula-edit.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formula-edit/customer-formula-edit.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formulas/customer-formulas.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formulas/customer-formulas.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formulas/customer-formulas.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-formulas/customer-formulas.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-groups-modal/customer-groups-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-groups-modal/customer-groups-modal.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-groups-modal/customer-groups-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-groups-modal/customer-groups-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-price-line-items/customer-price-line-items.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-price-line-items/customer-price-line-items.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-price-line-items/customer-price-line-items.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/customer-price-line-items/customer-price-line-items.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/driver-chooser-modal/driver-chooser-modal.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/driver-chooser-modal/driver-chooser-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/driver-chooser-modal/driver-chooser-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/driver-chooser-modal/driver-chooser-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formula-add-operator-modal/formula-add-operator-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formula-add-operator-modal/formula-add-operator-modal.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formula-add-operator-modal/formula-add-operator-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formula-add-operator-modal/formula-add-operator-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formulas-builder-modal/formulas-builder-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formulas-builder-modal/formulas-builder-modal.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formulas-builder-modal/formulas-builder-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/formulas-builder-modal/formulas-builder-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/orders-modal/orders-modal.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/orders-modal/orders-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/orders-modal/orders-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/orders-modal/orders-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/price-buildup-chart/price-buildup-chart.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/price-buildup-chart/price-buildup-chart.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/price-buildup-chart/price-buildup-chart.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/price-buildup-chart/price-buildup-chart.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/product-detail/product-detail.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/product-detail/product-detail.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/product-detail/product-detail.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/product-detail/product-detail.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-definition-modal/report-definition-modal.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-definition-modal/report-definition-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-definition-modal/report-definition-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-definition-modal/report-definition-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-definition-modal/report-line-item-definition-modal.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-definition-modal/report-line-item-definition-modal.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-definition-modal/report-line-item-definition-modal.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-definition-modal/report-line-item-definition-modal.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-defintion-list/report-line-item-definition-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-defintion-list/report-line-item-definition-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-defintion-list/report-line-item-definition-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-line-item-defintion-list/report-line-item-definition-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-trigger/report-trigger.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-trigger/report-trigger.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-trigger/report-trigger.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/report-trigger/report-trigger.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/user-role-permissions/user-role-permissions.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/user-role-permissions/user-role-permissions.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/user-role-permissions/user-role-permissions.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/modals/user-role-permissions/user-role-permissions.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/customer.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/customerFormulas.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/formulas.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/generic.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/links.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/manualPricing.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/orders.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/price.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/product.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/report.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/roles.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/user.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/models/version.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/customers/customers.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/customers/customers.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/customers/customers.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/customers/customers.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/formulas/formulas.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/formulas/formulas.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/formulas/formulas.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/formulas/formulas.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/products/products.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/products/products.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/products/products.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/products/products.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-ingestion/report-ingestion.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-ingestion/report-ingestion.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-ingestion/report-ingestion.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-ingestion/report-ingestion.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-managment/report-management.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-managment/report-management.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-managment/report-management.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/report-managment/report-management.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/shipto-list/shipto-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/shipto-list/shipto-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/shipto-list/shipto-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/shipto-list/shipto-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/source-price-list/source-price-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/source-price-list/source-price-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/source-price-list/source-price-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/source-price-list/source-price-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/user-roles/user-roles.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/user-roles/user-roles.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/user-roles/user-roles.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/pages/user-roles/user-roles.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/api/authorization.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/api/authorization.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/api/backend-api.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/api/backend-api.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/auth/auth.interceptor.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/auth/auth.interceptor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/auth/with-credentials.interceptor.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/auth/with-credentials.interceptor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/mock-api/mock-api-override.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/app/services/mock-api/mock-api.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/assets/cargill-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/assets/cargill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/assets/thrive-footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/custom.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/environments/environment.dev.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/environments/environment.stage.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fps/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pipeline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start_chrome_debug.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start_dev.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start_terminal.sh" beforeDir="false" />
-    </list>
+    <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -275,12 +55,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fixtures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/form" />
+      <recent name="$PROJECT_DIR$/src/components/form/styles" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -305,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600532191381</updated>
-      <workItem from="1600532192465" duration="447000" />
+      <workItem from="1600532192465" duration="22601000" />
     </task>
     <servers />
   </component>
@@ -327,9 +119,97 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1219" y="-47" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600553811610">
+      <screen x="-1920" y="-387" width="1920" height="1080" />
+    </state>
+    <state x="-1219" y="-47" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.-387.1920.1080/1920.0.1920.1080@-1920.-387.1920.1080" timestamp="1600553811610" />
+    <state width="1659" height="318" key="GridCell.Tab.0.bottom" timestamp="1600548840970">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1600548840970" />
+    <state width="1659" height="318" key="GridCell.Tab.0.center" timestamp="1600548840969">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1600548840969" />
+    <state width="1659" height="318" key="GridCell.Tab.0.left" timestamp="1600548840969">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1600548840969" />
+    <state width="1659" height="318" key="GridCell.Tab.0.right" timestamp="1600548840970">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1600548840970" />
+    <state width="1659" height="318" key="GridCell.Tab.1.bottom" timestamp="1600548840972">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.1.bottom/0.23.1680.974@0.23.1680.974" timestamp="1600548840972" />
+    <state width="1659" height="318" key="GridCell.Tab.1.center" timestamp="1600548840971">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.1.center/0.23.1680.974@0.23.1680.974" timestamp="1600548840971" />
+    <state width="1659" height="318" key="GridCell.Tab.1.left" timestamp="1600548840971">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.1.left/0.23.1680.974@0.23.1680.974" timestamp="1600548840971" />
+    <state width="1659" height="318" key="GridCell.Tab.1.right" timestamp="1600548840971">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.1.right/0.23.1680.974@0.23.1680.974" timestamp="1600548840971" />
+    <state width="1659" height="318" key="GridCell.Tab.2.bottom" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.2.bottom/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
+    <state width="1659" height="318" key="GridCell.Tab.2.center" timestamp="1600548840972">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.2.center/0.23.1680.974@0.23.1680.974" timestamp="1600548840972" />
+    <state width="1659" height="318" key="GridCell.Tab.2.left" timestamp="1600548840972">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.2.left/0.23.1680.974@0.23.1680.974" timestamp="1600548840972" />
+    <state width="1659" height="318" key="GridCell.Tab.2.right" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.2.right/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
+    <state width="1659" height="318" key="GridCell.Tab.3.bottom" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.3.bottom/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
+    <state width="1659" height="318" key="GridCell.Tab.3.center" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.3.center/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
+    <state width="1659" height="318" key="GridCell.Tab.3.left" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.3.left/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
+    <state width="1659" height="318" key="GridCell.Tab.3.right" timestamp="1600548840973">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1659" height="318" key="GridCell.Tab.3.right/0.23.1680.974@0.23.1680.974" timestamp="1600548840973" />
     <state x="-1451" y="-223" key="SettingsEditor" timestamp="1600532638861">
       <screen x="-1920" y="-364" width="1920" height="1004" />
     </state>
     <state x="-1451" y="-223" key="SettingsEditor/0.23.1920.1057/-1920.-364.1920.1004/1920.23.1920.1057@-1920.-364.1920.1004" timestamp="1600532638861" />
+    <state x="542" y="249" width="596" height="522" key="find.popup" timestamp="1600548279412">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="542" y="249" width="596" height="522" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1600548279412" />
+    <state x="-1295" y="-142" width="670" height="676" key="search.everywhere.popup" timestamp="1600551044524">
+      <screen x="-1920" y="-364" width="1920" height="1004" />
+    </state>
+    <state x="-1295" y="-142" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1920.-364.1920.1004/1920.23.1920.1057@-1920.-364.1920.1004" timestamp="1600551044524" />
+    <state x="-1295" y="-130" width="670" height="712" key="search.everywhere.popup/0.23.1920.1057/-1920.-364.1920.1057/1920.23.1920.1057@-1920.-364.1920.1057" timestamp="1600545080115" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/index.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

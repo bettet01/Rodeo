@@ -1,9 +1,14 @@
+import 'normalize.css';
+import { GlobalStyles } from './global-styles';
+
 import React from 'react';
-import { render } from 'react-dom';
+import {render} from 'react-dom';
 import App from './App';
 
-render(
-    <App />,
-  document.getElementById('root')
+render(<>
+        <GlobalStyles/>
+        <App/>
+    </>,
+    document.getElementById('root')
 );
 

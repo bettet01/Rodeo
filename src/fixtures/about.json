@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Jeff Huer",
+    "title": "Owner",
+    "description": "blah blah",
+    "image": "/path/to/image",
+    "alt": "picture of jeff huer",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "name": "Clint Dickens",
+    "title": "Another Guy",
+    "description": "blah blah",
+    "image": "/path/to/image",
+    "alt": "picture of clint dickens",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "name": "Harris Bettenga",
+    "title": "Another Guy",
+    "description": "blah blah",
+    "image": "/path/to/image",
+    "alt": "picture of harris bettenga",
+    "direction": "row"
+  }
+]
