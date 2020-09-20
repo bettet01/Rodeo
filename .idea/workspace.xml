@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/jumbotron/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/table/styles/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/styles/table.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/homeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/homeContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600532191381</updated>
       <workItem from="1600532192465" duration="22601000" />
-      <workItem from="1600559829261" duration="24545000" />
+      <workItem from="1600559829261" duration="24967000" />
     </task>
     <servers />
   </component>

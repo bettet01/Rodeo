@@ -21,6 +21,7 @@ export const Pane = styled.div`
     padding: 0 45px;
     text-align: center;
     align-items: center;
+    margin-bottom: 30px;
   }
 `;
 
@@ -51,6 +52,19 @@ export const EventFlag = styled.div`
 
     @media (max-width: 600px) {
       width: auto;
+      text-align: center;
+      align-items: center;
+  }
+`;
+
+export const FacebookImage = styled.img`
+  max-width: 100%;
+  height: 100px;
+  margin-top: 30px;
+  margin-left: 300px;
+  
+  @media (max-width: 1050px) {
+      margin-left: 0px;
   }
 `;
 

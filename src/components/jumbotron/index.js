@@ -1,5 +1,17 @@
 import React from "react";
-import {Container, Item, Description, Image, Inner, Name, Pane, Title, EventFlag, HomeFlag} from "./styles/jumbotron";
+import {
+    Container,
+    Item,
+    Description,
+    Image,
+    Inner,
+    Name,
+    Pane,
+    Title,
+    EventFlag,
+    HomeFlag,
+    FacebookImage
+} from "./styles/jumbotron";
 
 export default function Jumbotron({children, direction = 'row', ...restProps}) {
     return (
@@ -37,6 +49,10 @@ Jumbotron.HomeFlag = function JumbotronHomeFlag({children, ...restProps}) {
 
 Jumbotron.Description = function JumbotronDescription({children, ...restProps}) {
     return <Description {...restProps}>{children}</Description>
+}
+
+Jumbotron.FacebookImage = function JumbotronFacebookImage({children, ...restProps}) {
+    return <FacebookImage {...restProps}>{children}</FacebookImage>
 }
 
 Jumbotron.Image = function JumbotronImage({children, ...restProps}) {

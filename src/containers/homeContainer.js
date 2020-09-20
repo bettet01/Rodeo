@@ -45,7 +45,7 @@ export default function HomeContainer() {
                     <Jumbotron.Name>Check us out on facebook!</Jumbotron.Name>
                 </Jumbotron.Pane>
                 <Jumbotron.Pane>
-                    <a href="https://www.facebook.com/heuerrodeocollc"><Jumbotron.Image style={{ marginTop: '30px', marginLeft: '50px',  width: '30%'}} src='https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-19.png' alt='facebook link'/></a>
+                    <a href="https://www.facebook.com/heuerrodeocollc"><Jumbotron.FacebookImage src='https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-19.png' alt='facebook link'/></a>
                 </Jumbotron.Pane>
             </Jumbotron>
             <Jumbotron>
