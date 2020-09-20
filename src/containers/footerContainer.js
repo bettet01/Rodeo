@@ -27,7 +27,7 @@ export function FooterContainer() {
                 </Footer.Column>
             </Footer.Row>
             <Footer.Break />
-            <Footer.Text>&#169; 2020 Huer Rodeo LLC</Footer.Text>
+            <Footer.Text>&#169; 2020 Heuer Rodeo LLC</Footer.Text>
         </Footer>
     )
 }

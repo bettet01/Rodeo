@@ -7,7 +7,7 @@ export default function HeaderContainer() {
     const [isShown, setIsShown] = useState(false);
     return (
         <Header>
-            <Header.Logo src={process.env.PUBLIC_URL + '/images/logo.png'} alt="Huer Rodeo Logo" />
+            <Header.Logo src={process.env.PUBLIC_URL + '/images/logo.png'} alt="Heuer Rodeo Logo" />
             <Header.Title to={"/"}>Heuer Rodeo</Header.Title>
             <Header.LinkContainer>
                 <Header.Link to={'/about'}>About</Header.Link>

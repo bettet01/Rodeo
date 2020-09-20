@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Jeff Huer",
+    "name": "Jeff Heuer",
     "title": "Owner",
     "description": "blah blah",
     "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-     "alt": "picture of jeff huer",
+     "alt": "picture of jeff heuer",
     "direction": "row"
   },
   {
