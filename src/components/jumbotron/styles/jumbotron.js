@@ -5,7 +5,6 @@ export const Inner = styled.div`
   align-items: center;
   flex-direction: ${({direction}) => direction};
   justify-content: space-between;
-  max-width: 1100px;
   margin: auto;
   width: 100%;
   
@@ -21,6 +20,7 @@ export const Pane = styled.div`
     width: 100%;
     padding: 0 45px;
     text-align: center;
+    align-items: center;
   }
 `;
 
@@ -45,7 +45,13 @@ export const Title = styled.h2`
 `;
 
 export const Description = styled.div`
-
+  font-size: 16px;
+  font-weight: normal;
+  line-height: normal;
+  
+    @media (max-width: 600px) {
+      font-size: 16px;
+  }
 `;
 
 export const Image = styled.img`

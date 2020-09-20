@@ -5,7 +5,7 @@ import Header from "../components/header";
 export default function HeaderContainer() {
     return (
         <Header>
-            <Header.Logo src="" alt="Huer Rodeo Logo" />
+            <Header.Logo src={process.env.PUBLIC_URL + '/images/logo.png'} alt="Huer Rodeo Logo" />
             <Header.Title to={"/"}>Huer Rodeo</Header.Title>
             <Header.LinkContainer>
                 <Header.Link to={'/about'}>About</Header.Link>

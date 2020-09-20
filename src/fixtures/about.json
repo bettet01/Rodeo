@@ -4,8 +4,8 @@
     "name": "Jeff Huer",
     "title": "Owner",
     "description": "blah blah",
-    "image": "/path/to/image",
-    "alt": "picture of jeff huer",
+    "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+     "alt": "picture of jeff huer",
     "direction": "row"
   },
   {
@@ -13,7 +13,7 @@
     "name": "Clint Dickens",
     "title": "Another Guy",
     "description": "blah blah",
-    "image": "/path/to/image",
+    "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
     "alt": "picture of clint dickens",
     "direction": "row-reverse"
   },
@@ -22,7 +22,7 @@
     "name": "Harris Bettenga",
     "title": "Another Guy",
     "description": "blah blah",
-    "image": "/path/to/image",
+    "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
     "alt": "picture of harris bettenga",
     "direction": "row"
   }
