@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600532191381</updated>
       <workItem from="1600532192465" duration="22601000" />
-      <workItem from="1600559829261" duration="14298000" />
+      <workItem from="1600559829261" duration="15317000" />
     </task>
     <servers />
   </component>
@@ -198,9 +199,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="41" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600570595404" />
-    <state x="-1295" y="-142" width="670" height="676" key="search.everywhere.popup" timestamp="1600551044524">
-      <screen x="-1920" y="-364" width="1920" height="1004" />
+    <state x="500" y="182" width="672" height="555" key="search.everywhere.popup" timestamp="1600616193077">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="500" y="182" width="672" height="555" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600616193077" />
     <state x="-1295" y="-142" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1920.-364.1920.1004/1920.23.1920.1057@-1920.-364.1920.1004" timestamp="1600551044524" />
     <state x="-1295" y="-130" width="670" height="712" key="search.everywhere.popup/0.23.1920.1057/-1920.-364.1920.1057/1920.23.1920.1057@-1920.-364.1920.1057" timestamp="1600545080115" />
   </component>
