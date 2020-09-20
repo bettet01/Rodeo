@@ -13,7 +13,7 @@ export const Row = styled.tr`
 
 export const Header = styled.th`
   font-size: 50px;
-  
+   
   @media (max-width: 1050px) {
     font-size: 24px;
   }

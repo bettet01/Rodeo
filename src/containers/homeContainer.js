@@ -3,6 +3,8 @@ import {FaqsContainer} from "./faqsContainer";
 import ImageGallery from 'react-image-gallery';
 import "react-image-gallery/styles/css/image-gallery.css";
 import Carousel from "../components/carousel";
+import {Jumbotron} from "../components";
+import {StyledLink} from "../components/form/styles/form";
 
 const images = [
     {
@@ -38,6 +40,27 @@ export default function HomeContainer() {
                     items={images}
                 />
             </Carousel>
+            <Jumbotron style={{borderTop: '#222 solid 5px'}}>
+                <Jumbotron.Pane>
+                    <Jumbotron.Name>Check us out on facebook!</Jumbotron.Name>
+                </Jumbotron.Pane>
+                <Jumbotron.Pane>
+                    <a href="https://www.facebook.com/heuerrodeocollc"><Jumbotron.Image style={{ marginTop: '30px', marginLeft: '50px',  width: '30%'}} src='https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-19.png' alt='facebook link'/></a>
+                </Jumbotron.Pane>
+            </Jumbotron>
+            <Jumbotron>
+                <Jumbotron.Pane style={{color: 'white', border: 'white solid 5px'}}>
+                    <Jumbotron.EventFlag>Mason City Fair</Jumbotron.EventFlag>
+                    <br/>
+                    <div style={{textAlign: 'center', fontSize: '20px'}}>on</div>
+                    <br/>
+                    <Jumbotron.EventFlag>1/1/2021</Jumbotron.EventFlag>
+                </Jumbotron.Pane>
+                    <Jumbotron.HomeFlag style={{width: '100%'}}>Catch us at our next event!</Jumbotron.HomeFlag>
+                <Jumbotron.Pane>
+
+                </Jumbotron.Pane>
+            </Jumbotron>
             <FaqsContainer/>
         </>
     )

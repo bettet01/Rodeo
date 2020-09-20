@@ -44,6 +44,28 @@ export const Title = styled.h2`
   }
 `;
 
+export const EventFlag = styled.div`
+  padding: 20px 70px;
+  font-size: 35px;
+  text-align: center;
+
+    @media (max-width: 600px) {
+      width: auto;
+  }
+`;
+
+export const HomeFlag = styled.div`
+  font-weight: bold;
+  margin-left: 28%;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 8px;
+  
+    @media (max-width: 1050px) {
+      margin-left: 0px;
+  }
+`;
+
 export const Description = styled.div`
   font-size: 16px;
   font-weight: normal;
