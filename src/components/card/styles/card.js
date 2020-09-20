@@ -16,7 +16,7 @@ export const Container = styled.div`
   box-sizing: border-box;
 
   > ${Title} {
-    @media (max-width: 1000px) {
+    @media (max-width: 1050px) {
       margin-left: 30px;
     }
   }

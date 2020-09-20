@@ -49,8 +49,9 @@ export const Description = styled.div`
   font-weight: normal;
   line-height: normal;
   
-    @media (max-width: 600px) {
+    @media (max-width: 1050px) {
       font-size: 16px;
+      margin-bottom: 20px;
   }
 `;
 

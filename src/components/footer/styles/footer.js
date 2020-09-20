@@ -9,7 +9,7 @@ export const Container = styled.div`
   max-width: 1000px;
   flex-direction: column;
   
-  @media (max-width: 1000px) {
+  @media (max-width: 1050px) {
     padding: 70px 30px;
   }
 `;
@@ -25,7 +25,7 @@ export const Row = styled.div`
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   grid-gap: 15px;
   
-  @media (max-width: 1000px) {
+  @media (max-width: 1050px) {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
 `;

@@ -2,6 +2,7 @@ import React from "react";
 import {FaqsContainer} from "./faqsContainer";
 import ImageGallery from 'react-image-gallery';
 import "react-image-gallery/styles/css/image-gallery.css";
+import Carousel from "../components/carousel";
 
 const images = [
     {
@@ -29,12 +30,14 @@ const images = [
 export default function HomeContainer() {
     return (
         <>
-            <ImageGallery
-                infinite={true}
-                lazyLoad={true}
-                autoPlay={true}
-                items={images}
-            />
+            <Carousel>
+                <ImageGallery
+                    infinite={true}
+                    lazyLoad={true}
+                    autoPlay={true}
+                    items={images}
+                />
+            </Carousel>
             <FaqsContainer/>
         </>
     )

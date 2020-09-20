@@ -20,9 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/carousel/styles/carousel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordian/styles/accordian.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordian/styles/accordian.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/styles/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/styles/card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/styles/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/styles/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form/styles/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form/styles/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/styles/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/styles/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/headerContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/headerContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/homeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/homeContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600532191381</updated>
       <workItem from="1600532192465" duration="22601000" />
-      <workItem from="1600559829261" duration="15317000" />
+      <workItem from="1600559829261" duration="18619000" />
     </task>
     <servers />
   </component>

@@ -29,7 +29,7 @@ export const Body = styled.div`
   white-space: pre-wrap;
   user-select: none;
   
-  @media (max-width: 600px) {
+  @media (max-width: 1050px) {
   font-size: 16px;
   line-height: 22px;
   }
@@ -51,11 +51,7 @@ export const Header = styled.div`
   width: 24px;
   }
   
-  @media (max-width: 600px) {
-  width: 16px;
-  }
-  
-  @media (max-width: 600px) {
+  @media (max-width: 1050px) {
     font-size: 16px;
   }
 `;
@@ -69,7 +65,7 @@ export const Title = styled.div`
   color: white;
   text-align: center;
   
-  @media (max-width: 600px) {
+  @media (max-width: 1050px) {
     font-size: 35px;
   }
 `;
