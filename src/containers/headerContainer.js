@@ -1,8 +1,10 @@
-import React from "react";
+import React, {useState} from "react";
 import Header from "../components/header";
 
 
 export default function HeaderContainer() {
+    const [isOpen, setIsOpen] = useState(false);
+    const [isShown, setIsShown] = useState(false);
     return (
         <Header>
             <Header.Logo src={process.env.PUBLIC_URL + '/images/logo.png'} alt="Huer Rodeo Logo" />
