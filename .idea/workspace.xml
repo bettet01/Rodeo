@@ -20,25 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/parchment-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/parchment.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form/styles/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form/styles/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/styles/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/styles/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/table/styles/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/styles/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/aboutContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/aboutContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/contactContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/contactContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/eventContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/eventContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/headerContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/headerContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fixtures/about.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/fixtures/about.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/homeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/homeContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600532191381</updated>
       <workItem from="1600532192465" duration="22601000" />
-      <workItem from="1600559829261" duration="11496000" />
+      <workItem from="1600559829261" duration="12766000" />
     </task>
     <servers />
   </component>
