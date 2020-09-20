@@ -15,11 +15,12 @@ export default function EventContainer() {
                 </Jumbotron.Pane>
             </Jumbotron>
             <Table>
-                <Table.Row>
+                <tbody>
+                <tr>
                     <Table.Header>{eventHeaders.date}</Table.Header>
                     <Table.Header>{eventHeaders.name}</Table.Header>
                     <Table.Header>{eventHeaders.location}</Table.Header>
-                </Table.Row>
+                </tr>
                 {events.sort((item) => item.date.date()).map((item) => (
                     <Table.Row key={item.id}>
                         <Table.Column>{item.date.format('MM/DD/YYYY')}</Table.Column>
@@ -27,6 +28,7 @@ export default function EventContainer() {
                         <Table.Column>{item.location}</Table.Column>
                     </Table.Row>
                 ))}
+                </tbody>
             </Table>
         </>
     )
