@@ -1,7 +1,8 @@
-import React, { useState } from "react";
-import { useHistory } from 'react-router-dom';
+import React, {useState} from "react";
+import {useHistory} from 'react-router-dom';
 import Form from "../components/form";
 import emailjs from 'emailjs-com';
+import Hero from "../components/hero";
 
 
 export default function ContactContainer() {
@@ -30,17 +31,22 @@ export default function ContactContainer() {
     }
 
     return (
-        <Form>
-            <Form.Title>Contact Us</Form.Title>
-            {error && <Form.Error>{error}</Form.Error>}
-            <Form.Base>
-                <Form.Input name="from_name"  placeholder="Name" value={name} onChange={({target}) => setName(target.value)}/>
-                <Form.Input name="subject"  placeholder="Subject" value={subject} onChange={({target}) => setSubject(target.value)}/>
-                <Form.TextArea name="message"  rows="4" cols="50" placeholder="Message" value={message} onChange={({target}) => setMessage(target.value)}/>
-            </Form.Base>
-            <Form.Submit onClick={sendEmail} disabled={isInvalid} type="submit">
-                Send
-            </Form.Submit>
-        </Form>
+        <Hero background={process.env.PUBLIC_URL + '/images/parchment.png'}>
+            <Hero.Form>
+                <Form.Title>Contact Us</Form.Title>
+                {error && <Form.Error>{error}</Form.Error>}
+                <Form.Base>
+                    <Form.Input name="from_name" placeholder="Name" value={name}
+                                onChange={({target}) => setName(target.value)}/>
+                    <Form.Input name="subject" placeholder="Subject" value={subject}
+                                onChange={({target}) => setSubject(target.value)}/>
+                    <Form.TextArea name="message" rows="4" cols="50" placeholder="Message" value={message}
+                                   onChange={({target}) => setMessage(target.value)}/>
+                </Form.Base>
+                <Form.Submit onClick={sendEmail} disabled={isInvalid} type="submit">
+                    Send
+                </Form.Submit>
+            </Hero.Form>
+        </Hero>
     )
 }

@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab8abee-e739-4b2d-891d-e2fa6b52a958" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/hero/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/styles/hero.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/jumbotron/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jumbotron/styles/jumbotron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/homeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/homeContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/contactContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/contactContainer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +57,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components" />
-      <recent name="$PROJECT_DIR$/src/components/form" />
-      <recent name="$PROJECT_DIR$/src/components/form/styles" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ethan\Documents\Coding\rodeo\public\images" />
       <recent name="C:\Users\Ethan\Documents\Coding\rodeo\public\images\icons" />
       <recent name="$PROJECT_DIR$/src/fixtures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/form" />
+      <recent name="$PROJECT_DIR$/src/components/form/styles" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
