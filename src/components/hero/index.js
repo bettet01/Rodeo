@@ -1,5 +1,5 @@
 import React from "react";
-import {Container, FormContainer} from "./styles/hero";
+import {Container, Form, Text} from "./styles/hero";
 
 
 export default function Hero({children, background, ...restProps}) {
@@ -7,5 +7,10 @@ export default function Hero({children, background, ...restProps}) {
 }
 
 Hero.Form = function HeroForm({children, ...restProps}) {
-    return <FormContainer {...restProps}>{children}</FormContainer>
+    return <Form {...restProps}>{children}</Form>
+}
+
+
+Hero.Text = function HeroText({children, ...restProps}) {
+    return <Text {...restProps}>{children}</Text>
 }

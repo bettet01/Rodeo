@@ -31,7 +31,7 @@ export default function ContactContainer() {
     }
 
     return (
-        <Hero background={process.env.PUBLIC_URL + '/images/parchment.png'}>
+        <Hero style={{  paddingTop: '200px', paddingBottom: '200px'}} background={process.env.PUBLIC_URL + '/images/parchment.png'}>
             <Hero.Form>
                 <Form.Title>Contact Us</Form.Title>
                 {error && <Form.Error>{error}</Form.Error>}

@@ -5,6 +5,7 @@ import "react-image-gallery/styles/css/image-gallery.css";
 import Carousel from "../components/carousel";
 import {Jumbotron} from "../components";
 import {StyledLink} from "../components/form/styles/form";
+import Hero from "../components/hero";
 
 const images = [
     {
@@ -42,7 +43,9 @@ export default function HomeContainer() {
             </Carousel>
             <Jumbotron style={{borderTop: '#222 solid 5px'}}>
                 <Jumbotron.Pane>
-                    <Jumbotron.Name>Check us out on facebook!</Jumbotron.Name>
+                    <Hero style={{backgroundSize: 'contain'}} background={process.env.PUBLIC_URL + '/images/parchment-horizontal.png'}>
+                    <Hero.Text>Check us out on facebook!</Hero.Text>
+                    </Hero>
                 </Jumbotron.Pane>
                 <Jumbotron.Pane>
                     <a href="https://www.facebook.com/heuerrodeocollc"><Jumbotron.FacebookImage src='https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-19.png' alt='facebook link'/></a>
@@ -56,9 +59,10 @@ export default function HomeContainer() {
                     <br/>
                     <Jumbotron.EventFlag>1/1/2021</Jumbotron.EventFlag>
                 </Jumbotron.Pane>
-                    <Jumbotron.HomeFlag style={{width: '100%'}}>Catch us at our next event!</Jumbotron.HomeFlag>
                 <Jumbotron.Pane>
-
+                    <Hero style={{backgroundSize: 'contain'}} background={process.env.PUBLIC_URL + '/images/parchment-horizontal.png'}>
+                        <Hero.Text style={{width: '100%'}}>Catch us at our next event!</Hero.Text>
+                    </Hero>
                 </Jumbotron.Pane>
             </Jumbotron>
             <FaqsContainer/>

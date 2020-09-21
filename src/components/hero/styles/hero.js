@@ -11,17 +11,27 @@ export const Container = styled.div`
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  padding-top: 200px;
-  padding-bottom: 200px;
 `;
 
-export const FormContainer = styled.form`
+export const Form = styled.form`
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+`;
+
+export const Text = styled.div`
+  font-size: 36px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #222;
   margin: 20px;
   max-width: 300px;
   padding: 16px;
